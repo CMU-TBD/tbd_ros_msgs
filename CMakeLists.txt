@@ -68,6 +68,7 @@ add_message_files(
    faceEmotion.action
    playAudio.action
    gazeAt.action
+   speakTo.action
  )
 
 ## Generate added messages and services with any dependencies listed here
