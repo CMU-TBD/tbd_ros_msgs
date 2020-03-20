@@ -53,6 +53,7 @@ add_message_files(
   HumanJoint.msg
   HumanBody.msg
   HumanBodyArray.msg
+  FaceAnimationObject.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -66,6 +67,7 @@ add_message_files(
  add_action_files(
    FILES
    faceEmotion.action
+   faceAnimation.action
    playAudio.action
    gazeAt.action
    speakTo.action
