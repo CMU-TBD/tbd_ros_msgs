@@ -69,8 +69,10 @@ add_message_files(
    faceEmotion.action
    faceAnimation.action
    playAudio.action
+   pollySpeech.action
    gazeAt.action
    speakTo.action
+   moveTo.action
  )
 
 ## Generate added messages and services with any dependencies listed here
