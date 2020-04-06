@@ -11,6 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   actionlib
   actionlib_msgs
   geometry_msgs
+  sensor_msgs
   rospy
 )
 
@@ -50,6 +51,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
+  Agent.msg
   HumanJoint.msg
   HumanBody.msg
   HumanBodyArray.msg
@@ -81,6 +83,7 @@ add_message_files(
    std_msgs  # Or other packages containing msgs
    geometry_msgs
    actionlib_msgs
+   sensor_msgs
  )
 
 ################################################
