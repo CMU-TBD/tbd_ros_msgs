@@ -1,8 +1,0 @@
-Header header #To keep track when this action was issued
-geometry_msgs/Pose desire_pose #Pose to go to
----
-bool complete
-geometry_msgs/PoseStamped final_pose
----
-# Define a feedback message
-float32 percent_complete
