@@ -3,12 +3,12 @@
 # (required)
 Header header
 string agent_type_unique # A unique string that describe the type of agent
-uint32 agent_id
+string agent_id #ID for the robot.
 
 # (Optional)
 
 # High level concepts of the robot
-geometry_msgs/Vector3Stamped attention
+geometry_msgs/PoseStamped attention
 geometry_msgs/PolygonStamped bounding_box
 
 # Detail states
