@@ -1,9 +1,10 @@
 # Changelog
 
+### [0.0.4] - 2020-08-03
+- **[Added]** `Actor.msg` that provide the ground truth position of the person.
+
 ### [0.0.3] - 2020-05-20
-#### Changed
-- Updated Agent's ID and Pose properties to different type.
+- **[Changed]** Updated Agent's ID and Pose properties to different type.
 
 ## [0.0.2] - 2020-05-13
-#### Changed
-- moved interaction related action messages to a seperate repo.
+- **[Changed]** moved interaction related action messages to a seperate repo.

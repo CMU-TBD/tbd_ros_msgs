@@ -52,6 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Agent.msg
+  Actor.msg
   HumanJoint.msg
   HumanBody.msg
   HumanBodyArray.msg
