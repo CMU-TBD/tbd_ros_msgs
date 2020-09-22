@@ -1,5 +1,8 @@
 # Changelog
 
+### [0.1.0] - 2020-09-22
+- **[Changed]** cleaned up `CMakeLists.txt`.
+
 ### [0.0.4] - 2020-08-03
 - **[Added]** `Actor.msg` that provide the ground truth position of the person.
 
