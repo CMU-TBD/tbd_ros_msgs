@@ -19,6 +19,8 @@ add_message_files(
   HumanJoint.msg
   HumanBody.msg
   HumanBodyArray.msg
+  InteractionSpace.msg
+  InteractionSpaceArray.msg
   FaceAnimationObject.msg
 )
 
