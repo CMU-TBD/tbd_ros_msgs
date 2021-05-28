@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.1.2] - 2021-05-28
+- **[Changed]**  `InteractionSpace.msg`'s member now split into agent and human.
+
 ## [0.1.1] - 2021-04-12
 - **[Added]** `InteractionSpace.msg` and `InteractionSpaceArray.msg` that tries to encode group spatial formations.
 
