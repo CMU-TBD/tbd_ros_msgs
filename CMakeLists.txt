@@ -9,6 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
   actionlib_msgs
   geometry_msgs
   sensor_msgs
+  message_generation
 )
 
 ## Generate messages in the 'msg' folder
