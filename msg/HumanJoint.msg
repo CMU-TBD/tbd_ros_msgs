@@ -33,7 +33,7 @@ uint8 JOINT_EYE_LEFT=28
 uint8 JOINT_EAR_LEFT=29
 uint8 JOINT_EYE_RIGHT=30
 uint8 JOINT_EAR_RIGHT=31
-uint8 JOINT_COUNT =32
+uint8 JOINT_COUNT=32
 
 uint8 joint_id
 geometry_msgs/Pose pose
